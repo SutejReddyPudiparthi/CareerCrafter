@@ -1,4 +1,4 @@
-# CareerCrafter - Job Portal Application
+# CareerCrafter - Job Portal
 A comprehensive full-stack job portal application that connects job seekers with employers, featuring role-based authentication, job recommendations, and a modern user interface.
 
 ## ✨ Features
