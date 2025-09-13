@@ -1,14 +1,6 @@
 # CareerCrafter - Job Portal Application
 A comprehensive full-stack job portal application that connects job seekers with employers, featuring role-based authentication, job recommendations, and a modern user interface.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [License](#license)
-
 ## ✨ Features
 
 ### For Job Seekers
@@ -85,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sutej Reddy Pudiparthi**
 - GitHub: [@SutejReddyPudiparthi](https://github.com/SutejReddyPudiparthi)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/pudiparthisutejreddy/]
+- Email: [sutejreddy7@gmail.com]
 
 ---
