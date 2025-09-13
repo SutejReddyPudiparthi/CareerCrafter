@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sutej Reddy Pudiparthi**
 - GitHub: [@SutejReddyPudiparthi](https://github.com/SutejReddyPudiparthi)
-- LinkedIn: [https://www.linkedin.com/in/pudiparthisutejreddy/]
-- Email: [sutejreddy7@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/pudiparthisutejreddy/
+- Email: sutejreddy7@gmail.com
 
 ---
