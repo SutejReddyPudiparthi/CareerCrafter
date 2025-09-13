@@ -48,12 +48,6 @@ A comprehensive full-stack job portal application that connects job seekers with
 
 ## 🏗 Architecture
 
-The application follows a layered architecture pattern:
-
-```
-Frontend (React) ←→ Backend (Spring Boot) ←→ Database (MySQL)
-```
-
 ### Backend Architecture
 - **Controller Layer** - REST endpoints
 - **Service Layer** - Business logic
@@ -68,10 +62,6 @@ Frontend (React) ←→ Backend (Spring Boot) ←→ Database (MySQL)
    git clone https://github.com/SutejReddyPudiparthi/CareerCrafter.git
    cd CareerCrafter
    ```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
